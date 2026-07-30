@@ -22,7 +22,7 @@
 <tr>
 <td width="62%" valign="top">
 
-👋 About Me
+**About Me**
 
 I am a Founder, AI Engineer, and Data Scientist with 4+ years of experience building production AI systems, agentic workflows, intelligent automation, and scalable data platforms.
 
@@ -35,7 +35,7 @@ AI Agents · RAG · Voice AI · Tool Calling · Browser Automation · LLM Evalua
 </td>
 <td width="38%" valign="top">
 
-⚡ At a Glance
+**At a Glance**
 
 🚀 Co-Founder & CTO Mercurial AI
 
@@ -49,7 +49,7 @@ AI Agents · RAG · Voice AI · Tool Calling · Browser Automation · LLM Evalua
 </tr>
 </table>
 
-📊 Selected Impact
+**Selected Impact**
 
 <div align="center">
 
@@ -80,13 +80,13 @@ AI Agents · RAG · Voice AI · Tool Calling · Browser Automation · LLM Evalua
 
 </div>
 
-🧩 What I Build
+**What I Build**
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-🤖 Production AI & Agents
+**Production AI & Agents**
 
 End-to-end AI applications combining LLM reasoning, tools, APIs, retrieval, memory, evaluation, observability, and human review.
 
