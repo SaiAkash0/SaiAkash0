@@ -37,13 +37,13 @@ AI Agents · RAG · Voice AI · Tool Calling · Browser Automation · LLM Evalua
 
 **At a Glance**
 
-🚀 Co-Founder & CTO Mercurial AI
+* Co-Founder & CTO Mercurial AI
 
-🏥 Built and scaled Sona Health
+* Built and scaled Sona Health
 
-🎓 M.S. Data Science Rochester Institute of Technology
+* M.S. Data Science Rochester Institute of Technology
 
-📍 Based in Rochester, New York
+* Based in Rochester, New York
 
 </td>
 </tr>
@@ -95,7 +95,7 @@ Agentic AI Multi-Agent Systems RAG MCP Evals
 </td>
 <td width="50%" valign="top">
 
-⚙️ Intelligent Automation
+**Intelligent Automation**
 
 Reliable systems for browser workflows, operational tasks, document processing, and multi-step decision execution.
 
@@ -106,7 +106,7 @@ Tool Calling Browser Automation Workflow Engines APIs
 <tr>
 <td width="50%" valign="top">
 
-🏥 Healthcare & Regulated AI
+**Healthcare & Regulated AI**
 
 Source-grounded systems for clinical retrieval, multilingual voice experiences, evidence tracking, and explainable outputs.
 
@@ -115,7 +115,7 @@ Healthcare AI Voice AI Grounded Generation HITL
 </td>
 <td width="50%" valign="top">
 
-🏗️ Data & AI Infrastructure
+**Data & AI Infrastructure**
 
 Scalable pipelines, analytical layers, model-serving APIs, cloud deployments, CI/CD, monitoring, and production observability.
 
@@ -125,7 +125,7 @@ ETL/ELT FastAPI Spark Cloud Docker CI/CD
 </tr>
 </table>
 
-🛠️ Skills
+**Skills**
 
 <table>
 <tr>
@@ -190,7 +190,7 @@ ETL/ELT FastAPI Spark Cloud Docker CI/CD
 </table>
 ---
 
-🔭 Current Focus
+**Current Focus**
 
 <div align="center">
 
